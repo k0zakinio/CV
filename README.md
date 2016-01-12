@@ -13,6 +13,9 @@ Here are some of the projects I completed on the course.
 - [TripShare](http://tripshare-frontend.herokuapp.com/): *a trip planning application made collaboration with three other students*
 - [BandsNearU](https://github.com/k0zakinio/BandsNearU): *a music discovery web application made in collaboration with three other students*
 
+#### Photography
+For two years following my degree I was working between many jobs as a freelance photographer, photographers assistant and retoucher.  The photography life didn't work out for me but I have some good knowledge of Photoshop from this time which I intend to employ in my web development work.
+
 ## Education
 #### University of the Creative Arts, Kent - 2006 to 2009
 - Photography (BA Hons): 2:2
