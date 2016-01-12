@@ -22,17 +22,16 @@ Here are some of the projects I completed on the course.
 
 ## Work
 **Makers Academy** - (Sep 2015 to Jan 2016)  
-*Student*
-**ALD Consulting Ltd - contract with Deloitte** - (Jul 2014 to Sep 2015) 
+*Student*  
+**ALD Consulting Ltd - contract with Deloitte** - (Jul 2014 to Sep 2015)  
 *Management Information Analyst*  
- **ALD Consulting Ltd - contract with Deloitte** - (Sep 2013 to Jul 2014) 
+ **ALD Consulting Ltd - contract with Deloitte** - (Sep 2013 to Jul 2014)  
 *Experienced Case Handler*  
- **Capita Hartshead** - (Jun 2012 to Aug 2013) 
+ **Capita Hartshead** - (Jun 2012 to Aug 2013)  
 *Case Officer*  
-**The Co-operative Bank** - (Nov 2011 to Jun 2012)
+**The Co-operative Bank** - (Nov 2011 to Jun 2012)  
 *Customer Service Advisor*  
 **Camp Manitou** - (Jun 2011 to Aug 2011)  
 *Photographer*  
-
-*Photographer*  
 **Rokit Ltd** - (Sep 2010 to May 2011)  
+*Photographer*  
