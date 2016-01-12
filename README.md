@@ -9,9 +9,9 @@ Some blurb about me
 Having just completed the intensive Makers Academy course, I feel like I've taken the first of many steps in my new career.  Before I started I had a basic understanding of coding, the course has allowed me to learn the best practices of coding and the course has reinforced that this is the career for me!  We covered JavaScript and Ruby, plus some popular frameworks such as Rails and Angular.
 
 Here are some of the projects I completed on the course.
-- ['chitter'](http://chitter-andy.herokuapp.com/): *a weekend project creating an twitter-like application*
-- ['TripShare'](http://tripshare-frontend.herokuapp.com/): *a two day project in collaboration with three other students*
-- ['BandsNearU'](https://github.com/k0zakinio/BandsNearU): *the final project of the course in collaboration with three other students*
+- [chitter](http://chitter-andy.herokuapp.com/): *a weekend project creating an twitter-like application*
+- [TripShare](http://tripshare-frontend.herokuapp.com/): *a two day project in collaboration with three other students*
+- [BandsNearU](https://github.com/k0zakinio/BandsNearU): *the final project of the course in collaboration with three other students*
 
 ## Education
 #### University of the Creative Arts, Kent - 2006 to 2009
