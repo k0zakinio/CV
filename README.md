@@ -17,11 +17,11 @@ Here are some of the projects I completed on the course.
 #### University of the Creative Arts, Kent - 2006 to 2009
 - Photography (BA Hons): 2:2
 
-#### Blackburn College / St Mary's College, Blackburn 2003 to 2006
+#### Blackburn College / St Mary's College, Blackburn - 2003 to 2006
 - English Language (AS): C
 - Photography (BTEC): Merit Merit Pass
 
-#### Mount Carmel RC High School, Lancashire 1998 to 2003 
+#### Mount Carmel RC High School, Lancashire - 1998 to 2003 
 - GCSE English Language: C
 - Literature: B
 - Science Double Award: CC
