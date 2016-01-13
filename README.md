@@ -1,7 +1,7 @@
 # Andrew Dowell
-I have a strong monotone northern accent, people have on occasion have asked me whether I was interested in what they were saying because of this (I genuinely wasn't interested).  I've had a varied work life; I studied photography for five years and worked for two, was a banker for two years and a self employed analyst for one.  I'm pretty quick at learning new stuff, I taught myself how to ollie within 30 minutes of picking up a skateboard (but no-one cared).  I also like solving problems; at my last place of work I automated two people's jobs (the people weren't too happy about it).  
+I've had a varied work life; I studied photography for five years and worked for two, was a banker for two years and a self employed analyst for one.  I'm pretty quick at learning new stuff; I went from knowing nothing about web development three months ago to being pretty proficient at it.  I also like solving problems; at my last place of work I completely automated two people's jobs.  
 
-I've had my head in the dirt of ones and zeroes for the past three months to emerge expectedly unemployed, but keen as ever to better my coding skills!  I'm looking to work with someone who is going to help me develop and be the best that I can.  In return I'll give you my strong monotone northern accent and all my effort to make you the best you can.
+I've had my head in the dirt of ones and zeroes for the past three months on Makers Academy to emerge expectedly unemployed, but keen as ever to better my coding skills.  I'm looking to work with someone who is going to help me develop and be the best that I can.  In return I'll give you my all my effort to make you the best you can.
 
 ## Skills
 
