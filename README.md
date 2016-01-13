@@ -15,10 +15,10 @@ Here are some of the projects I completed on the course.
 - [BandsNearU](https://bandsnearu.herokuapp.com/): *a music discovery web application made in collaboration with three other students*
 
 #### Analyst
-I was a self employed Management Information Analyst for Deloitte prior to starting at Makers Academy.  I was the sole person to design, development and maintain reports for monitoring the production of circa 100 employees, reporting to Senior Management.  I moved onto the role with no knowledge of VBA (Visual Basic for Applications) and everything was manually input to spreadsheets, I taught myself VBA and completely automated the reports.  By the time I had left, reports which took a full day for two people to complete were done by myself within an hour; I thought this was pretty cool and I think that's when I caught the coding bug.
+Prior to starting at Makers Academy I was the sole person to design, development and maintain reports for monitoring the production of circa 100 employees, reporting to Deloitte Senior Management.  I moved onto the role with no knowledge of VBA (Visual Basic for Applications) and everything was manually input to spreadsheets.  I taught myself VBA within weeks with no prior programming experience and completely automated the reports.  By the time I had left, reports which took a full day for two people to complete were done by myself within an hour.
 
 #### Photography
-For two years following my degree I was working between many jobs as a freelance photographer, photographers assistant and retoucher.  The photography life didn't work out well for me but it did give me a good working knowledge of Photoshop; which I will be more than capable to employ in my web development work.
+For two years following my degree I was working between many jobs as a freelance photographer, photographers assistant and retoucher.  The photography life didn't work out well for me but it did give me a good working knowledge of Photoshop; which I will be more than capable to employ in any web development work.
 
 ## Education
 #### University of the Creative Arts, Kent - 2006 to 2009
