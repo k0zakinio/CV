@@ -1,20 +1,24 @@
 # Andrew Dowell
+I have a strong monotone northern accent, people have on occasion have asked me whether I was interested in what they were saying because of this (I genuinely wasn't interested).  I've had a varied work life; I studied photography for five years and worked for two, was a banker for two years and a self employed analyst for one.  I'm pretty quick at learning new stuff, I taught myself how to ollie within 30 minutes of picking up a skateboard (but no-one cared).  I also like solving problems; at my last place of work I automated two people's jobs (the people weren't too happy about it).  
 
-Some blurb about me
+I've had my head in the dirt of ones and zeroes for the past three months to emerge expectedly unemployed, but keen as ever to better my coding skills!  I'm looking to work with someone who is going to help me develop and be the best that I can.  In return I'll give you my strong monotone northern accent and all my effort to make you the best you can.
 
 ## Skills
 
 #### Web Development
 
-Having just completed the intensive Makers Academy course, I feel like I've taken the first of many steps in my new career.  Before I started I had a basic understanding of coding, the course has allowed me to learn the best practices of coding and the course has reinforced that this is the career for me!  We covered JavaScript and Ruby, plus some popular frameworks such as Rails and Angular.
+Having just completed the intensive Makers Academy course I feel like I've taken the first of many steps in my new career.  I've gone from having a very basic understanding of coding to feeling comfortable taking on anything (as long as I can use Google!). The course has taught me the best practices of coding and has reinforced that this is the career for me.  We covered JavaScript and Ruby all written with TDD in mind, and used some popular frameworks such as Rails, jQuery and Angular.
 
 Here are some of the projects I completed on the course.
 - [chitter](http://chitter-andy.herokuapp.com/): *a weekend project creating an twitter-like application*
 - [TripShare](http://tripshare-frontend.herokuapp.com/): *a trip planning application made collaboration with three other students*
-- [BandsNearU](https://github.com/k0zakinio/BandsNearU): *a music discovery web application made in collaboration with three other students*
+- [BandsNearU](https://bandsnearu.herokuapp.com/): *a music discovery web application made in collaboration with three other students*
+
+#### Analyst
+I was a self employed Management Information Analyst for Deloitte prior to starting at Makers Academy.  I was the sole person to design, development and maintain reports for monitoring the production of circa 100 employees, reporting to Senior Management.  I moved onto the role with no knowledge of VBA (Visual Basic for Applications) and everything was manually input to spreadsheets, I taught myself VBA and completely automated the reports.  By the time I had left, reports which took a full day for two people to complete were done by myself within an hour; I thought this was pretty cool and I think that's when I caught the coding bug.
 
 #### Photography
-For two years following my degree I was working between many jobs as a freelance photographer, photographers assistant and retoucher.  The photography life didn't work out for me but I have some good knowledge of Photoshop from this time which I intend to employ in my web development work.
+For two years following my degree I was working between many jobs as a freelance photographer, photographers assistant and retoucher.  The photography life didn't work out well for me but it did give me a good working knowledge of Photoshop; which I will be more than capable to employ in my web development work.
 
 ## Education
 #### University of the Creative Arts, Kent - 2006 to 2009
