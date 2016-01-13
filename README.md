@@ -26,7 +26,7 @@ For two years following my degree I was working between many jobs as a freelance
 
 #### Mount Carmel RC High School, Lancashire - 1998 to 2003 
 - GCSE English Language: C
-- Literature: B
+- GCSE English Literature: B
 - Science Double Award: CC
 - Mathematics: B
 
