@@ -1,5 +1,5 @@
 # Andrew Dowell
-I've had a varied work life; I studied photography for five years and worked for two, was a banker for two years and a self employed analyst for one.  I'm pretty quick at learning new stuff; I went from knowing nothing about web development three months ago to being pretty proficient at it.  I also like solving problems; at my last place of work I completely automated two people's jobs.  
+I've had a varied work life; I studied photography for five years and worked for two, was a banker for two years and a self employed analyst for one.  I'm pretty quick at learning new stuff; I went from knowing nothing about web development three months ago to being pretty proficient at it.  I like solving problems; at my last place of work I completely automated two people's jobs.  
 
 I've had my head in the dirt of ones and zeroes for the past three months on the Makers Academy course to emerge expectedly unemployed, but keen as ever to better my coding skills.  I'm looking to work with someone who is going to help me develop and be the best that I can.  In return I'll give you my all my effort to make you the best you can.
 
