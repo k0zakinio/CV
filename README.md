@@ -21,6 +21,8 @@ Prior to starting at Makers Academy I was the sole person to design, development
 For two years following my degree I was working between many jobs as a freelance photographer, photographers assistant and retoucher.  The photography life didn't work out for me but it did give me a good working knowledge of Photoshop; which I will be more than capable to employ in any web development work.
 
 ## Education
+#### Makers Academy Ronin - Sep 2015 to Jan 2016
+
 #### University of the Creative Arts, Kent - 2006 to 2009
 - Photography (BA Hons): 2:2
 
@@ -35,8 +37,6 @@ For two years following my degree I was working between many jobs as a freelance
 - Mathematics: B
 
 ## Work
-**Makers Academy** - (Sep 2015 to Jan 2016)  
-*Student*  
 **ALD Consulting Ltd - contract with Deloitte** - (Jul 2014 to Sep 2015)  
 *Management Information Analyst*  
  **ALD Consulting Ltd - contract with Deloitte** - (Sep 2013 to Jul 2014)  
